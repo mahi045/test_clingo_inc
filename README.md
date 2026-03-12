@@ -25,7 +25,7 @@ First clone the repo. Then run `run_clingo_inc.py` in one of the modes (incremen
 
 
 ## Run: Non-incremental mode
-It grounds the logic program multiple times for every new probabilities: 
+It grounds the logic program every time for every new probabilities: 
 ```
 python run_clingo_inc.py
 ```
